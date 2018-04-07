@@ -1,0 +1,1 @@
+Recognizes street address in command line arguments if present else from the clipboard and searches for it in Google Maps
