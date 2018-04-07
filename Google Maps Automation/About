@@ -1,1 +1,3 @@
 Recognizes street address in command line arguments if present else from the clipboard and searches for it in Google Maps
+pyperclip is used to read clipboard contents
+sys.argv is used to read command line arguments
